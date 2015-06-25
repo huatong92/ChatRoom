@@ -1,5 +1,4 @@
 Name: Hua Tong
-Uni: ht2334
 
 My chatroom application is written in java. It includes two class: server and client. 
 
