@@ -1,4 +1,4 @@
-Name: Hua Tong
+Author: Hua Tong
 
 My chatroom application is written in java. It includes two class: server and client. 
 
