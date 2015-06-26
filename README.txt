@@ -1,7 +1,9 @@
 Author: Hua Tong
 
-My chatroom application is written in java. It includes two class: server and client. 
+This is a chatroom application. It uses non-permanant TCP connections between server and client. When client is not actively sending message, the connection breaks automatically; when client restarts to send message, the connection sets up automatically; when client receives message, the connection sets up, receive the message, and breaks again. 
 
+Implementation:
+My chatroom application is written in java. It includes two class: server and client. 
 
 Server Class:
 1. There is one thread continuously accept socket through this server socket.
